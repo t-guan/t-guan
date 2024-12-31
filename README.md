@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @t-guan
 - 👀 I’m interested in developing for Mechatronics applications.
 - 🌱 I’m currently learning machine learning for sensor data analysis, processing, and prediction. Currently working on a project to predict gaming performance of players based on warmup varibles, including type of warmups and duration.
-- 💞️ I’m looking to collaborate on machine learning projects and firmware for electronic hardware.
 - 📫 How to reach me: https://t-guan.github.io/
 
 <!---
